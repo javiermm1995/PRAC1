@@ -10,4 +10,3 @@ En este repositorio se agrupan los siguientes ficheros:
 
 - Código_Web_Scraping.ipynb - código realizado con Python para implementar el proceso de web scraping sobre las webs analizadas
 - dataset_empresas_españolas-2.csv - base de datos final 
-- 
