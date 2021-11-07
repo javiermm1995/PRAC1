@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /serv/
+Disallow: /*?qNombreNorm
+Disallow: /servlet/app/
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://ranking-empresas.eleconomista.es/sitemap_RANK_ES_index.xml
+Sitemap: https://ranking-empresas.eleconomista.es/sitemap_site_intermedias1.xml
