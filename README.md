@@ -13,3 +13,5 @@ En este repositorio se agrupan los siguientes ficheros:
 - eleconomista_robots.txt e infocif_robots.txt - ficheros robots.txt de las páginas web utilizadas
 - Informe Práctica 1 - documento pdf con las respuestas a los distintos apartados
 - El vídeo de presentación del proyecto
+- LICENSE - donde fijamos la licencia del proyecto
+- README - descripción del proyecto
